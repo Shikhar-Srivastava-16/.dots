@@ -1,0 +1,32 @@
+#!/usr/bin/bash
+
+echo "..updating.."
+sudo pacman -Syuu
+
+echo "..installing dependencies.."
+sudo pacman -S $(cat deps)
+echo "..installed dependencies.."
+
+echo "..copying configurations.."
+cp -r ./configs/* ~/.config/
+echo "..copied configurations.."
+
+echo "..installing YetAnotherYoghurt.."
+sudo pacman -S --needed git base-devel
+git clone https://aur.archlinux.org/yay-bin.git
+cd yay-bin
+makepkg -si
+cd ..
+echo "..finished installing YetAnotherYoghurt.."
+
+echo "..installing paru"
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+cd ..
+echo "..finished installing paru"
+
+rm -r ./yay-bin ./paru
+echo "..deleted temp files.."
+
+cp ./.bashrc ~/.bashrc

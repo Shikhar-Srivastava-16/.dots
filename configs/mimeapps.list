@@ -1,0 +1,25 @@
+[Default Applications]
+text/html=userapp-Zen-K0R262.desktop
+x-scheme-handler/http=userapp-Zen-K0R262.desktop
+x-scheme-handler/https=userapp-Zen-K0R262.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/chrome=userapp-Zen-K0R262.desktop
+application/x-extension-htm=userapp-Zen-K0R262.desktop
+application/x-extension-html=userapp-Zen-K0R262.desktop
+application/x-extension-shtml=userapp-Zen-K0R262.desktop
+application/xhtml+xml=userapp-Zen-K0R262.desktop
+application/x-extension-xhtml=userapp-Zen-K0R262.desktop
+application/x-extension-xht=userapp-Zen-K0R262.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Zen-K0R262.desktop;userapp-Zen-BMMF62.desktop;firefox.desktop;
+x-scheme-handler/https=userapp-Zen-K0R262.desktop;userapp-Zen-BMMF62.desktop;firefox.desktop;
+x-scheme-handler/chrome=userapp-Zen-K0R262.desktop;userapp-Zen-BMMF62.desktop;firefox.desktop;
+text/html=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;
+application/x-extension-htm=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;
+application/x-extension-html=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;
+application/x-extension-shtml=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;
+application/xhtml+xml=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;
+application/x-extension-xhtml=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;
+application/x-extension-xht=firefox.desktop;userapp-Zen-BMMF62.desktop;userapp-Zen-K0R262.desktop;

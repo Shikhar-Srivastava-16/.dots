@@ -1,0 +1,292 @@
+exit
+clear
+nvim
+clear
+ls
+clear
+ls
+foo
+clear
+rmdir
+ls
+clear
+fastfetch
+nvim
+neovim
+~/.local/bin/nvim 
+lds
+clear
+ls
+clear
+firefopx
+firefox
+clear
+sudo envtest
+sudo evtest
+exit
+sudo sudo libinput debug-events<\n>
+clear
+nu
+nu
+nu
+nu
+config nu
+cd .config/
+ls
+celar
+ls
+clear
+ls
+cd nushell/
+ls
+clear
+cat history.txt
+clear
+man gh
+sudo pacman -S glow
+sudo pacman -S tdf
+yay -S tdf
+rustup install nightlu
+rustup install nightly
+cd ~/.local/
+ls
+clear
+l
+clear
+l
+clear
+ls
+cargo +nightly install --git https://github.com/itsjunetime/tdf.git
+ls
+sudo pacman -S libclang
+gh repo clone itsjunetime/tdf
+claer
+cleae
+clear 
+ls
+cd tdf/
+ls
+clear
+cargo +nightly build --release
+sudo pacman -S clang]
+sudo pacman -S clang
+cargo +nightly build --release
+cargo build --workspace
+ls ./target/release/
+tre
+tree
+tree | grep tdf
+clear
+cargo build --workspace --release
+clear
+ls
+./target/
+ls
+rm -fr release/
+debug
+ls
+./debug/
+ls
+./tdf
+cd
+clear
+cd C:/ls
+cd C:/
+;s
+ls
+celar
+clear
+cd ..
+clear
+lsblk
+sudo mount /dev/nvme0n1p3
+sudo mount -p /dev/nvme0n1p3 /C:
+mkdir /C:
+sudo mkdir /C:
+ls
+clear
+rm -fr C:/
+clea
+ln -sf /C:/ .
+ls
+clear
+ls
+ll
+cleAR
+clear
+exa
+exa -l
+ll
+ls
+ls -l
+claer
+clear
+ls
+clear
+ls
+lsblk
+clear
+lsclk
+lsblk
+sudo mount -p /dev/nvme0n1p3 /C:
+sudo mount /dev/nvme0n1p3 /C:
+ls C:
+man fstab
+genfstab
+clear
+sudo pacman -S genfstab
+genfstab /
+which fstab
+clear
+which sudo
+sudo pacman -S arch-install-scripts
+genfstab /
+genfstab -L /
+genfstab /
+genfstab / >> /etc/fstab
+clear
+reboot
+ops
+ps
+ps -ux
+ps -x
+ps
+clear
+0ps
+ps
+ls
+clear
+fastfetch
+clear
+ls
+clear
+$env.PATH
+exit
+env nu
+config nu
+nvim
+code .
+nvim .config/nushell/env.nu
+config nu
+nvim .config/nushell/env.nu
+config nu
+nvim .config/nushell/env.nu
+config nu
+config nu -- doc
+config nu --doc
+config nu --doc | nu-highlight
+config nu
+clear
+ls
+clear
+lc
+ceklar
+clear
+tddf
+tdf
+clear
+ls
+clear
+l
+clear
+less
+less -R
+clear
+ls
+cela
+clear
+get
+man get
+get --help
+pactl
+pactl -h
+clea
+pacman -Qg nerd-fonts
+pacman -Qg nerd-fonts >> nerd-fonts-installed
+pacman -Qg nerd-fonts | echo >> nerd-fonts-installed
+save
+c;ear
+clear
+pacman -Qg nerd-fonts | echo >> nerd-fonts-installed
+pacman -Qg nerd-fonts out> nerd-fonts.txt
+ls
+cat nerd-fonts.txt
+clear
+sudo pacman -R otf-aurulent-nerd
+sudo pacman -R otf-codenewroman-nerd otf-comicshanns-nerd
+sudo pacman -R otf-droid-nerd
+sudo pacman -R otf-geist-mono-nerd otf-hsaklig-nerd
+sudo pacman -R otf-geist-mono-nerd otf-hasklig-nerd
+sudo pacman -R otf-hermit-nerd otf-monaspace-nerd otf-opendyslexic-nerd
+sudo pacman -R ttf-jetbrains-mono-nerd
+sudo pacman -R ttf-lekton-nerd
+sudo pacman -R ttf-liberation-mono-nerd
+sudo pacman -R ttf-{lilex{liberation,martian}}-mono-nerd
+sudo pacman -R ttf-{lilex,{liberation,martian}}-mono-nerd
+sudo pacman -Qg ttf
+sudo pacman -Qg nerd-fonts
+sudo pacman -Qg nerd-fonts | head 2
+sudo pacman -Qg nerd-fonts | head -n 2
+sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g"
+sed
+sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R $(sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g')
+sudo pacman -R (sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g')
+sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -Qg nerd-fonts | | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R otf-commit-mono-nerd otf-overpass-nerd
+sudo pacman -R (sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g')
+clear
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+clear
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g"
+sudo pacman -R (sudo pacman -Qg nerd-fonts | head -n 2 | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g')otf-commit-mono-nerd<\n>otf-overpass-nerd<\n>ttf-0xproto-nerdx
+sudo pacman -R<\n>otf-overpass-nerd<\n>ttf-0xproto-nerdx
+sudo pacman -R \<\n>otf-overpass-nerd \<\n>ttf-0xproto-nerdx \
+sudo pacman -R otf-overpass-nerd ttf-0xproto-nerdx
+sudo pacman -R otf-overpass-nerd
+sudo pacman -R otf-overpass-nerd otf-commit-mono-nerd
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g"
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R ttf-0xproto-nerd ttf-3270-nerd ttf-agave-nerd
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R ttf-anonymouspro-nerd ttf-arimo-nerd ttf-bigblueterminal-nerd ttf-bitstream-vera-mono-nerd
+pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R ttf-cascadia-code-nerd ttf-cascadia-mono-nerd ttf-cousine-nerd ttf-d2coding-nerd
+pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R ttf-daddytime-mono-nerd ttf-dejavu-nerd ttf-envycoder-nerd ttf-fantasque-nerd
+pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R ttf-firacode-nerd ttf-go-nerd ttf-gohu-nerd ttf-hack-nerd
+pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+sudo pacman -R ttf-heavydata-nerd ttf-iawriter-nerd ttf-ibmplex-mono-nerd ttf-inconsolata-go-nerd
+pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g'
+(pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+pacman -S (pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+sudo pacman -S (pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+sudo pacman -S $(pacman -Qg nerd-fonts | sed -e "s/nerd-fonts //g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+sudo pacman -S gnome-*
+pacman -Qg gnome
+sudo pacman -R gnome-*
+pacman -S (pacman -Qg gnome | sed -e "s/gnome//g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+sudo pacman -R (pacman -Qg gnome | sed -e "s/gnome//g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+(pacman -Qg gnome | sed -e "s/gnome//g" | head -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+(pacman -Qg gnome | sed -e "s/gnome//g" | tail -n 4 | sed -e ':a;N;$!ba;s/\n/ /g')
+pacman -Qg gnome | sed -e "s/gnome//g" | sed -e ':a;N;$!ba;s/\n/ /g'
+pacman -Rsu gnome
+sudo pacman -Rsu gnome
+clear
+pacman -Syu
+sudo pacman -Syu
+yay
+clear
+code .
+pacman -Ss visual-studio-code
+pacman -S visual-studio-code
+sudo pacman -Ss visual-studio-code
+code .
+sudo systemctl --user start display-manager-wayland.service
+sudo systemctlstart display-manager-wayland.service
+sudo systemctl start display-manager-wayland.service
